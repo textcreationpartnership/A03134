@@ -35,9 +35,25 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A iournall, of the taking in of Venlo, Roermont, Strale, the memorable seige of Mastricht, the towne
+
+1. TO His honored Kinsman, Maister Frauncis Morrice Clarcke of his Maties: Ordnance.
+
+1. AN EXACT CARD, Wherein is described, and delineated the famous Seige of Mastricht, begun the 10. of June, and ended the 23. of Angust, following Anno 1632.
+
+1. The Demonstration of this Card by letter and Numbre.
+
 #####Body#####
-A iournall, of the taking in of Venlo, Roermont, Strale, the memorable seige of Mastricht, the towne
+
+1. A Iournall or briefe Relation of the taking in of Venlo, Roermont, the memorable Seige of Mastricht, and Limburch with some other townes & forts in those quarters.
+
+1. A true Liste of the number of Officers slayne, and hurt of all Nations of the States Armie before Venlo, Roermont, and the famous seige of Mastricht, together with the Voluntiers & Gentlemen slayne, and hurt, & the numbre of the Souldiers of every Regiment throw the Army Anno 1632.
+
+1. Articles accorded by the Prince of Orange to the Gouvernour of the Towne of Mastricht, and VViecke, and to the Captaines, and Souldiers therein.
+
+1. The Articles of Composition agreed on my Lord the Prince of Orange, to the Clergie & Magigistrates of the Towne of Mastricht.
+
+1. The Articles off composition graunted to the Clergie, Burgers, and Souldiers of the Towne, and Castle of Limburch Anno 1632.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
